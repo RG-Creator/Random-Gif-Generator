@@ -7,7 +7,7 @@ export default function Tag(){
     const {gif,loading,fetchdata} = useGif(tag);
 
     return(
-        <div className="w-7/12 min-h-[150px] bg-blue-400 flex flex-col items-center justify-between gap-4 py-6 rounded-lg border-black border-[1px] mb-6">
+        <div className="w-11/12 md:w-9/12 lg:7/12 min-h-[150px] bg-blue-400 flex flex-col items-center justify-between gap-4 py-6 rounded-lg border-black border-[1px] mb-6">
             <h1 className="text-2xl uppercase font-bold underline">Random {tag} GIF</h1>
             {
                 loading ? (<Spinner/>) : (<img src={gif} width={450}/>)
