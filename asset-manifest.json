@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Random-Gif-Generator/static/css/main.a40f6c71.css",
-    "main.js": "/Random-Gif-Generator/static/js/main.fe71660b.js",
-    "index.html": "/Random-Gif-Generator/index.html",
-    "main.a40f6c71.css.map": "/Random-Gif-Generator/static/css/main.a40f6c71.css.map",
-    "main.fe71660b.js.map": "/Random-Gif-Generator/static/js/main.fe71660b.js.map"
+    "main.css": "/static/css/main.67358509.css",
+    "main.js": "/static/js/main.d963946d.js",
+    "index.html": "/index.html",
+    "main.67358509.css.map": "/static/css/main.67358509.css.map",
+    "main.d963946d.js.map": "/static/js/main.d963946d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a40f6c71.css",
-    "static/js/main.fe71660b.js"
+    "static/css/main.67358509.css",
+    "static/js/main.d963946d.js"
   ]
 }
